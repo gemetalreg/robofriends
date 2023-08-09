@@ -1,4 +1,3 @@
-import { toHaveDisplayValue } from "@testing-library/jest-dom/matchers";
 import React from "react";
 
 const Card = (props) => {
